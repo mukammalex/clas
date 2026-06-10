@@ -112,3 +112,208 @@ nav{
 
     background: #F02228;
 }
+.qard{
+   
+    background: wheat;
+    height: 100vh;
+    margin-top: 3%;
+
+}
+.card{
+    display: flex;
+    justify-content: space-evenly;
+    border-style: none;
+    gap: 20px;
+    border-radius: 10px;
+    width: 50vh;
+    height: 20vh;
+    margin-top: 10%;
+    background: white;
+    line-height: 1.5;
+}
+.card p{
+    margin-top: 5%;
+}
+.card button{
+  margin-top: 5%;
+    padding: 8px 25px;
+    background: #FF4029;
+    border-style: none;
+    border-radius: 15px;
+    color: white;
+    cursor: pointer;
+}
+.card2{
+    background: #F02228;
+     
+}
+.card2 div{
+    margin-left: 15px;
+    line-height: 1.2;
+    margin-top: 5px;
+    color: white;
+}
+
+.card2 button{
+    background: #FFC71F;
+    color: black;
+}
+.cards01{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+}
+.yyy{
+    position: relative;
+    left: 4vh;
+    top: 1vh;
+    width: 150px;
+    height: 130px;
+}
+.burg{
+    position: absolute;
+    left: 40vh;
+}
+.new{
+    position: absolute;
+    left: 31%;
+}
+.burg2{
+    position: relative;
+}
+.eee{
+    width: 150px ;
+    height: 130px;
+    margin-top: 8px;
+
+}
+.rrr{
+    position: absolute;
+    right: 20vh;
+    top: 161vh;
+    width: 180px;
+    height: 155px;
+}
+.new2{
+    position: absolute;
+    right: 21vh;
+}
+
+.card02{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 5%;
+}
+.card22{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    align-items: center;
+    border-radius: 10px;
+    border-style: none;
+    width: 77vh;
+    height: 30vh;
+    background: white;
+    line-height: 1.5;
+}
+.card22 p{
+    margin-top: 5%;
+}
+
+.www{
+
+  position: relative;
+  right: -25px;
+}
+.boxx{
+    position: absolute;
+    right: 52%;
+}
+.lll{
+    position: absolute;
+    left: 80vh;
+    top: 205vh;
+    width: 120px;
+}
+.sous{
+    position: absolute;
+    left: 79vh;
+    top: 212vh;
+}
+.brbr{
+    position: absolute;
+    left: 69vh;
+    top: 208vh;
+}
+.fanta{
+
+    position: absolute;
+    left: 60vh;
+    top: 205vh;
+}
+.ggg{
+    position: relative;
+    left: 55px;
+}
+.vgvg{
+    position: absolute;
+    left: 140vh;
+    top: 185vh;
+}
+.iii{
+    position: absolute;
+    left: 160vh;
+    top: 201vh;
+}
+.brbr2{
+    position: absolute;
+    left: 147vh;
+    top: 205vh;
+}
+.fanta2{
+    position: absolute;
+    left: 137vh;
+    top: 202vh;
+}
+
+.favorit{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+   background: linear-gradient(262.18deg, #FFB737 -0.11%, #FFBE4B 97.74%);
+  height: 45vh;
+   margin-top: 10%;
+
+}
+
+.hhh{
+    position: relative;
+    left: -2vh;
+    top: vh;
+}
+.jjj{
+    position: absolute;
+    left: 22vh;
+    top: 230vh;
+}
+.tete h2{
+ font-size: 50px;
+color: white;
+margin-bottom: 7%;
+}
+
+.tete button{
+
+    border-style: none;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.btnbtn{
+    display: flex;
+    gap: 40px;
+}
