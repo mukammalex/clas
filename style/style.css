@@ -324,7 +324,7 @@ margin-bottom: 7%;
 
 
 
-.testimonials{
+.stories{
     max-width: 100%;
    min-height: 100vh;
    
@@ -378,6 +378,8 @@ margin-bottom: 7%;
 
 .author span{
     font-size: 16px;
+    color: #777;
+  
 }
 
 .left h1{
@@ -404,4 +406,37 @@ margin-bottom: 7%;
     position: relative;
     top: -10vh;
     left: -3vh;
+}
+.vergul{
+    font-size: 30px;
+    color: aqua;
+}
+
+
+.kfc-contact{
+
+    background: #F02228;
+    height: 20vh;
+    
+}
+.kokofooter img{
+    cursor: pointer;
+}
+.kokofooter{
+
+     display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 40px;
+}
+.mmm{
+
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.mmm h3{
+  color: white;
+    font-size: 25px;
+    cursor: pointer;
 }
