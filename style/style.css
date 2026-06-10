@@ -285,9 +285,9 @@ nav{
   justify-content: center;
   align-items: center;
   gap: 40px;
+  height: 50vh;
    background: linear-gradient(262.18deg, #FFB737 -0.11%, #FFBE4B 97.74%);
-  height: 45vh;
-   margin-top: 10%;
+
 
 }
 
@@ -295,11 +295,13 @@ nav{
     position: relative;
     left: -2vh;
     top: vh;
+    height: 60vh;
 }
 .jjj{
     position: absolute;
     left: 22vh;
-    top: 230vh;
+    top: 235vh;
+    height: 70vh;
 }
 .tete h2{
  font-size: 50px;
@@ -316,4 +318,90 @@ margin-bottom: 7%;
 .btnbtn{
     display: flex;
     gap: 40px;
+    margin-bottom: 15%;
+}
+
+
+
+
+.testimonials{
+    max-width: 100%;
+   min-height: 100vh;
+   
+   background:#f8efe8;
+
+}
+
+.yuyu{
+
+     display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: center;
+    align-items: start;
+    gap: 25px;
+ 
+}
+.cardd{
+    background: #fff;
+    border-radius: 12px;
+    padding: 40px;
+    max-width: 420px;
+    margin-top: 15%;
+    
+}
+.left{
+
+    margin-top: 15%;
+    padding: 20px;
+    color: black;
+   position: relative;
+   left: 35vh;
+}
+
+
+.cardd1{
+
+  position: relative;
+  left: -20px;
+  top: 60px;
+    
+}
+.cardd p{
+    font-size: 18px;
+    line-height: 1.7;
+    margin-bottom: 30px;
+}
+
+.author h3{
+    font-size: 24px;
+}
+
+.author span{
+    font-size: 16px;
+}
+
+.left h1{
+    font-size: 52px;
+    color: black;
+}
+
+.left p{
+    font-size: 18px;
+    color: black;
+}
+
+.cardd2{
+    max-width: 380px;
+    margin-left: 80px;
+    position: relative;
+    top: -25vh;
+    left: 30vh;
+   
+}
+
+.cardd3{
+    max-width: 380px;
+    position: relative;
+    top: -10vh;
+    left: -3vh;
 }
