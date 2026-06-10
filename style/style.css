@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 header{
@@ -349,7 +350,7 @@ margin-bottom: 7%;
     margin-top: 15%;
     
 }
-.left{
+.leftt{
 
     margin-top: 15%;
     padding: 20px;
@@ -363,7 +364,7 @@ margin-bottom: 7%;
 
   position: relative;
   left: -20px;
-  top: 60px;
+  top: 45px;
     
 }
 .cardd p{
@@ -382,12 +383,12 @@ margin-bottom: 7%;
   
 }
 
-.left h1{
+.leftt h1{
     font-size: 52px;
     color: black;
 }
 
-.left p{
+.leftt p{
     font-size: 18px;
     color: black;
 }
@@ -404,7 +405,7 @@ margin-bottom: 7%;
 .cardd3{
     max-width: 380px;
     position: relative;
-    top: -10vh;
+    top: -9vh;
     left: -3vh;
 }
 .vergul{
@@ -439,4 +440,56 @@ margin-bottom: 7%;
   color: white;
     font-size: 25px;
     cursor: pointer;
+}
+
+.support{
+
+    background: #202329;
+    height: 65vh;
+}
+.opopo{
+
+   display: flex;
+   justify-content: space-evenly;
+   gap: 20px;
+  padding: 40px;
+ 
+  top: 50px;
+   line-height: 1.5;
+   color: white;
+}
+.opopo h2{
+
+    font-size: 35px;
+}
+.opopo p{
+
+ font-size: 20px;
+}
+
+.date input{
+
+    padding: 15px 10vh;
+    background: #ffffff29;
+   border-style: none;
+   border-radius: 10px;
+}
+.boboi{
+
+    position: relative;
+    left: 12vh;
+
+
+}
+
+.endl{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 70vh;
+    color: white;
+    margin-top: -5%;
+}
+.endl div{
+    display: flex;
 }
